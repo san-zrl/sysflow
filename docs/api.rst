@@ -1,1 +1,1 @@
-.. mdinclude:: ../modules/sf-apis/API.md
+.. mdinclude:: ../modules/sf-apis/docs/API.md
