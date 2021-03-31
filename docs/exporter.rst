@@ -1,1 +1,1 @@
-.. mdinclude:: ../modules/sf-exporter/BUILD.md
+.. mdinclude:: ../modules/sf-exporter/docs/BUILD.md
